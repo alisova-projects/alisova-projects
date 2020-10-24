@@ -2,11 +2,10 @@
 
 **Get in touch:**
 
-[![Github Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://github.com/alisova-projects/)](https://github.com/alisova-projects)
-[![elenie3l@gmail.com e-mail](https://img.shields.io/badge/-alisova-projects-grey?style=flat&logo=github&logoColor=white&link=https://github.com/alisova-projects/)](mailto:elenie3l@gmail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/alisova-projects) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](elenie3l@gmail.com)
 
-- 🌱 I’m currently learning JavaScript.
-- 🔭 I’m working hard on something interesting for JS novices.
+- 🌱 I’m currently learning JavaScript
+- 🔭 I’m working on something interesting with JS students
 
 ⚡ My interests:
 
@@ -15,6 +14,8 @@
 3. Life as it is
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elena-alisova-a03b1a1aa/)
+
+---
 
 **My stack and tools:**
 
