@@ -3,7 +3,7 @@
 **Get in touch:**
 
 [![Github Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://github.com/alisova-projects/)](https://github.com/alisova-projects)
-[![elenie3l@gmail.com e-mail](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/alisova-projects/)](mailto:elenie3l@gmail.com)
+[![elenie3l@gmail.com e-mail](https://img.shields.io/badge/-alisova-projects-grey?style=flat&logo=github&logoColor=white&link=https://github.com/alisova-projects/)](mailto:elenie3l@gmail.com)
 
 - 🌱 I’m currently learning JavaScript.
 - 🔭 I’m working hard on something interesting for JS novices.
