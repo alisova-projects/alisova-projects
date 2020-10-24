@@ -3,19 +3,13 @@
 - 🌱 I’m currently learning JavaScript.
 - 🔭 I’m working hard on something interesting for JS novices.
 
----
-
 ⚡ My interests:
 
 1. Yoga
 2. Nature
 3. Life as it is
 
----
-
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elena-alisova-a03b1a1aa/)
-
----
 
 **My stack and tools:**
 
@@ -33,9 +27,9 @@
 
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
 
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
@@ -43,4 +37,7 @@
 
 ---
 
+# Some of my Github Stats
+
 ![Lpj's github stats](https://github-readme-stats.vercel.app/api?username=alisova-projects&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=alisova-projects&layout=compact)](https://github.com/pedes/github-readme-stats)
