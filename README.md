@@ -3,8 +3,7 @@
 **Get in touch:**
 
 [![Github Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://github.com/alisova-projects/)](https://github.com/alisova-projects)
-![Profile views](https://gpvc.arturio.dev/alisova-projects)
-[![elenie3l@gmail.com e-mail](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](mailto:elenie3l@gmail.com)
+[![elenie3l@gmail.com e-mail](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/alisova-projects/)](mailto:elenie3l@gmail.com)
 
 - 🌱 I’m currently learning JavaScript.
 - 🔭 I’m working hard on something interesting for JS novices.
@@ -47,3 +46,5 @@
 
 ![Elena's github stats](https://github-readme-stats.vercel.app/api?username=alisova-projects&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=alisova-projects&layout=compact)](https://github.com/pedes/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/alisova-projects)
