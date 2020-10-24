@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Elena!
 
-**Get in touch:**
+**📫 Get in touch:**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/alisova-projects) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](elenie3l@gmail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/alisova-projects) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](elenie3l@gmail.com) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/elena-alisova-a03b1a1aa//)
 
 - 🌱 I’m currently learning JavaScript
 - 🔭 I’m working on something interesting with JS students
@@ -12,8 +12,6 @@
 1. Yoga
 2. Nature
 3. Life as it is
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elena-alisova-a03b1a1aa/)
 
 ---
 
