@@ -2,7 +2,9 @@
 
 **Get in touch:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elena-alisova-a03b1a1aa/)](https://www.linkedin.com/in/elena-alisova-a03b1a1aa/) [![Github Badge](https://img.shields.io/badge/-alisova-projects-grey?style=flat&logo=github&logoColor=white&link=https://github.com/alisova-projects/)](https://github.com/alisova-projects) ![Profile views](https://gpvc.arturio.dev/alisova-projects) [![elenie3l@gmail.com e-mail](https://img.shields.io/badge/Gmail-elenie3l@gmail.com-red?style=plastic&logo=gmail&link=mailto:elenie3l@gmail.com)](mailto:elenie3l@gmail.com)
+![![Github Badge](https://img.shields.io/badge/-alisova-projects-grey?style=flat&logo=github&logoColor=white&link=https://github.com/alisova-projects/)](https://github.com/alisova-projects)
+![Profile views](https://gpvc.arturio.dev/alisova-projects)
+![![elenie3l@gmail.com e-mail](https://img.shields.io/badge/Gmail-elenie3l@gmail.com-red?style=plastic&logo=gmail&link=mailto:elenie3l@gmail.com)](mailto:elenie3l@gmail.com)
 
 - 🌱 I’m currently learning JavaScript.
 - 🔭 I’m working hard on something interesting for JS novices.
