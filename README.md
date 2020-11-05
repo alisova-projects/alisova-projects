@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Elena!
 
 - 🌱 I’m currently learning JavaScript
-- 🔭 I’m working on something interesting with JS students
+- 🔭 I’m working on something interesting with other JS students
 
 ⚡ My interests:
 
