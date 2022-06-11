@@ -1,13 +1,15 @@
 ## Hi there 👋, I'm Elena!
 
-- 🌱 I’m currently learning JavaScript
-- 🔭 I’m working on something interesting with other JS students
+- 🌱 I’m currently learning AQA vs. JavaScript
+- 🔭 I’m working on something interesting with other students
 
 ⚡ My interests:
 
-1. Yoga
-2. Nature
-3. Life as it is
+1. QA
+2. JS
+3. Yoga
+4. Nature
+5. Life as it is
 
 # **My stack and tools:**
 
